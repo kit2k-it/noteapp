@@ -132,7 +132,7 @@ export default function App() {
               />
 
               <Button type="submit" variation="primary">
-                Create Note
+                Create Note New
               </Button>
             </Flex>
           </View>
